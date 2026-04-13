@@ -16,7 +16,7 @@ A full-stack platform that bridges the gap between citizens and local authoritie
 | **Auth** | express-session + connect-mongo |
 | **Storage** | Cloudinary |
 | **Email** | Nodemailer + Resend |
-| **AI Chatbot** | Claude API (Anthropic) |
+| **AI Chatbot** | Gemini API |
 | **Maps** | Mapbox |
 
 ---
