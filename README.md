@@ -93,7 +93,7 @@ Capstone - Project/
 - Node.js v18+
 - MongoDB (local or Atlas)
 - Cloudinary account
-- Resend API key
+- Gemini API
 
 ### Installation
 ```bash
