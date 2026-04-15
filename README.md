@@ -13,7 +13,7 @@ A full-stack platform that bridges the gap between citizens and local authoritie
 | **Backend** | Node.js + Express.js |
 | **Database** | MongoDB + Mongoose |
 | **Real-time** | Socket.IO |
-| **Auth** | express-session + connect-mongo |
+| **Authen** | express-session + connect-mongo |
 | **Storage** | Cloudinary |
 | **Email** | Nodemailer + Resend |
 | **AI Chatbot** | Gemini API |
