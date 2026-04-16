@@ -17,7 +17,7 @@ A full-stack platform that bridges the gap between citizens and local authoritie
 | **Storage** | Cloudinary |
 | **Email** | Nodemailer + Resend |
 | **AI Chatbot** | Gemini API |
-| **Maps** | Mapbox |
+| ** Maps ** | Mapbox |
 
 ---
 
