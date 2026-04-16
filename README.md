@@ -51,7 +51,7 @@ A full-stack platform that bridges the gap between citizens and local authoritie
 | Measure | Implementation |
 | :--- | :--- |
 | **Secure Headers** | Helmet middleware prevents XSS, clickjacking, and common HTTP vulnerabilities |
-| **Rate Limiting** | `express-rate-limit` — 100 requests per 15 minutes per IP |
+| **Rate Limiting** |  `express-rate-limit` — 100 requests per 15 minutes per IP |
 | **CSRF Defense** | Manual origin + referer validation on all state-changing requests (POST, PUT, DELETE, PATCH) |
 | **Session Security** | `httpOnly`, `secure` (production), and `SameSite: none` for safe cross-origin auth |
 | **Password Hashing** | Industry-standard bcrypt encryption |
