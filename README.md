@@ -70,7 +70,7 @@ A full-stack platform that bridges the gap between citizens and local authoritie
 ---
 
 ## 📂 Project Structure
-```text
+``` text
 Capstone - Project/
 ├── Backend/
 │   ├── Config/       # DB, Mailer, Cloudinary setup
