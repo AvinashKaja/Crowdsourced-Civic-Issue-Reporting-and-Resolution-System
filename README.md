@@ -62,7 +62,7 @@ A full-stack platform that bridges the gap between citizens and local authoritie
 
 | Optimization | Detail |
 | :--- | :--- |
-| **Response Compression** | `compression` middleware reduces payload sizes and latency |
+| **Response Compression** | `compression`  middleware reduces payload sizes and latency |
 | **Database Indexing** | Strategic indexes on `status`, `category`, `assignedTo`, `createdAt` for fast queries |
 | **CDN-Offloaded Assets** | Images served via Cloudinary — zero media load on the app server |
 | **Background Maintenance** | Automated DB cleanup routines run every 12 hours |
