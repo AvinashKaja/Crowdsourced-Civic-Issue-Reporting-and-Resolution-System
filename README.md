@@ -11,7 +11,7 @@ A full-stack platform that bridges the gap between citizens and local authoritie
 | **Frontend** | React 19 + Vite |
 | **Styling** | Tailwind CSS |
 | **Backend** | Node.js + Express.js |
-| **Database** | MongoDB + Mongoose |
+| **Database** |MongoDB + Mongoose |
 | **Real-time** | Socket.IO |
 | **Authen** | express-session + connect-mongo |
 | **Storage** | Cloudinary |
