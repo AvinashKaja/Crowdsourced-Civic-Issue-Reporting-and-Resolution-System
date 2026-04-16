@@ -37,7 +37,7 @@ A full-stack platform that bridges the gap between citizens and local authoritie
 
 ### Dashboard & Analytics
 - Charts and trends via **Recharts**
-- Department performance metrics
+- Department performance  metrics
 
 ### User Engagement
 - **Real-time notifications** via Socket.IO
