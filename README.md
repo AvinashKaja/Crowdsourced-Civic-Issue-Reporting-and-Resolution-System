@@ -96,7 +96,7 @@ Capstone - Project/
 - Gemini API
 
 ### Installation
-```bash
+```- bash
 # Clone the repo
 git clone https://github.com/your-username/civic-issue-reporting.git
 
